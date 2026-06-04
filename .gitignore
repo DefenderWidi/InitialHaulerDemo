@@ -32,3 +32,5 @@ dist/
 *.mov
 *.mkv
 *.webm
+
+!public/ME11_demo.mp4
