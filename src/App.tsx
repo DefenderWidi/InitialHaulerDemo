@@ -80,7 +80,7 @@ type EvidencePreview = {
   item: HistoryItem
 }
 
-const VIDEO_SOURCE = "/ME112.mp4"
+const VIDEO_SOURCE = "/ME11_demo.mp4"
 
 /**
  * OPTIMASI LATENCY + EVIDENCE EVENT:
